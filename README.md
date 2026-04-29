@@ -10,12 +10,12 @@ It is created for learning, practice, and improving problem-solving skills.
 Each file represents a separate problem solution written in Java.
 
 Java_basics/
-├── Freq_char.java
-├── Quadratic_eqn.java
-├── Remove_spaces.java
-├── ReverseandAdd.java
-├── Round_num.java
-├── SimplyEmirp.java
+ ├── Freq_char.java
+ ├── Quadratic_eqn.java
+ ├── Remove_spaces.java
+ ├── ReverseandAdd.java
+ ├── Round_num.java
+ ├── SimplyEmirp.java
 
 ---
 
@@ -61,4 +61,4 @@ Compiled `.class` files are ignored using `.gitignore`.
 ## Future Improvements
 - Add more DSA problems
 - Organize by topics (Arrays, Strings, Recursion, etc.)
-- Add comments and explanations in code #
+- Add comments and explanations in code 
